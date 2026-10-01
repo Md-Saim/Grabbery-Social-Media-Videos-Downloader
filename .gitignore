@@ -1,0 +1,7 @@
+# Grabbery Repository Ignore Rules
+*.apk
+*.aab
+*.log
+.DS_Store
+Thumbs.db
+*.tmp
